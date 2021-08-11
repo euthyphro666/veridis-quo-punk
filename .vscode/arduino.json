@@ -1,0 +1,6 @@
+{
+	"board": "arduino:avr:uno",
+	"port": "COM4",
+	"sketch": "veridis-quo-punk.ino",
+	"output": "../output"
+}
